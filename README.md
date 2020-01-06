@@ -1,7 +1,8 @@
 # reading-notes
-Code Fellows Code 201 class reading notes based on the daily readings.
-#Code 201 Reading Notes
-theme: jekyll-theme-merlot
+##Code Fellows Code 201 class   
+###reading notes based on the daily readings.  
+
+theme: jekyll-theme-merlot  
 
 ---
 
@@ -20,3 +21,4 @@ theme: jekyll-theme-merlot
 13. Day 13 
 14. Day 14 
 15. Day 15
+---
