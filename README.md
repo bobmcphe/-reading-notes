@@ -3,6 +3,8 @@ Code Fellows Code 201 class reading notes based on the daily readings.
 #Code 201 Reading Notes
 theme: jekyll-theme-merlot
 
+---
+
 1. Day 1
 2. Day 2 
 3. Day 3 
