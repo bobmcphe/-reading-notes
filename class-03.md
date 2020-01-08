@@ -1,10 +1,14 @@
-#Class - 03
-##Ch. 3 - Lists -There are three types of lists; ordered, unordered, and definition. Unordered lists are simply bulleted lists, whereas ordered lists are numbered, and thus prioritiezed. A defition list is simply a listed set of text which is needed for definitions. Finally, one can nest a list within a list.
+# Class - 03
+## Ch. 3 - Lists -
 
-##Ch. 13 - Boxes - Conveniently, HTML breaks down into boxes well since it treats each element as if it has its own box. This is crucial for making the most of UX, structuring the website so people know who to visually 'read' the content. All box capabilities break down into either block-level boxes, or inline level boxes. 
+There are three types of lists; ordered, unordered, and definition. Unordered lists are simply bulleted lists, whereas ordered lists are numbered, and thus prioritiezed. A defition list is simply a listed set of text which is needed for definitions. Finally, one can nest a list within a list.
+
+## Ch. 13 - Boxes - 
+Conveniently, HTML breaks down into boxes well since it treats each element as if it has its own box. This is crucial for making the most of UX, structuring the website so people know who to visually 'read' the content. All box capabilities break down into either block-level boxes, or inline level boxes. 
 
 
-##Ch. 4 - Decisions and Loops - This section covers a few different topics, so we will start with switches. The switch starts with the switch value, which is the variable that is determinative here. Instead of use 'ifs' the switch use 'cases', and if a case corresponds to the variable, then the switch will terminate the section of code with a break command, and exit. If no case matches, then the switch statement will execute the default position, though I think this is optional. 
+## Ch. 4 - 
+Decisions and Loops - This section covers a few different topics, so we will start with switches. The switch starts with the switch value, which is the variable that is determinative here. Instead of use 'ifs' the switch use 'cases', and if a case corresponds to the variable, then the switch will terminate the section of code with a break command, and exit. If no case matches, then the switch statement will execute the default position, though I think this is optional. 
 
 Because JS uses type coercion, specifically, weak type, this can lead to errors. When JS comes across a type of data it did not expect to find, it will try to convert it. For example, if it runs into an empty string, it will treat it may treat it as false, or 'falsey.' Likewise with numbers above zero, or any normal string, it will treat these data types as true, or 'truthy.'
 
