@@ -22,19 +22,19 @@ Ch. 18. Process & Design - Designing a website well is largely determined by und
 
 Ch. 1. JS Intro - The book explains computers as making a model of the world that we know, and these models interact with other aspects through events, objects, methods, and properties. Objects have properties, events can trigger methods which can do things like create or modify objects and properties. Normally, we try to keep Javascrip in its own file, separate from the HTML file and the CSS file, using the `<script>` tag to either add a small amount of custom code, or call the file that loads the code for us. 
 
-2. Day 2 
-3. Day 3 
-4. Day 4 
-5. Day 5 
-6. Day 6
-7. Day 7 
-8. Day 8 
-9. Day 9 
-10. Day 10 
-11. Day 11 
-12. Day 12 
-13. Day 13 
-14. Day 14 
-15. Day 15
+1. Day 2 
+1. Day 3 
+1. Day 4 
+1. Day 5 
+1. Day 6
+1. Day 7 
+1. Day 8 
+1. Day 9 
+1. Day 10 
+1. Day 11 
+1. Day 12 
+1. Day 13 
+1. Day 14 
+1. Day 15
 ---
 this is the new change
