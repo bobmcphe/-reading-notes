@@ -22,8 +22,8 @@ Ch. 18. Process & Design - Designing a website well is largely determined by und
 
 Ch. 1. JS Intro - The book explains computers as making a model of the world that we know, and these models interact with other aspects through events, objects, methods, and properties. Objects have properties, events can trigger methods which can do things like create or modify objects and properties. Normally, we try to keep Javascrip in its own file, separate from the HTML file and the CSS file, using the `<script>` tag to either add a small amount of custom code, or call the file that loads the code for us. 
 
-1. Day 2  (https://www.google.com "Google's Homepage")
-1. Day 3 (https://bobmcphe.github.io/reading-notes/class-03.md "Day Three Reading")
+1. [Day 2](https://www.google.com "Google's Homepage")
+1. [Day 3](https://bobmcphe.github.io/reading-notes/class-03.md)
 1. Day 4 
 1. Day 5 
 1. Day 6
