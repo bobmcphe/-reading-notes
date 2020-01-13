@@ -1,6 +1,6 @@
 # reading-notes
-##Code Fellows Code 201 class   
-###reading notes based on the daily readings.  
+## Code Fellows Code 201 class   
+### reading notes based on the daily readings.  
 
 theme: jekyll-theme-merlot  
 
