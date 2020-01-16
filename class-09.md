@@ -1,4 +1,4 @@
-# Class-08 Reading Notes
+# Class-09 Reading Notes
 
 ## Chapter 7: “Forms”
  `<Form>` elements requires an action attribute. The information gained from forms is sent in name/value pairs, which if I understand is stored on a server. As Duckett explains, "HTML5 introduces new form elements which make it easier for visitors to fill in forms." This would include email and and url. 
