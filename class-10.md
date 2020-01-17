@@ -41,5 +41,7 @@ function() {
     console.log(dale; //notice the missing parenthesese....
 }
 
+```
+
 
 Range errors can happen when trying to access an index in an array that is beyond the array\'s length
