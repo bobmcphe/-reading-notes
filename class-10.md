@@ -29,5 +29,17 @@ There is, however, in addition to this, the generic error, which might constitut
 1. Function Context
 1. Eval Context
 
+Reference errors can be due to one (or more) of three possibilities. The object cannot be referenced, which we are trying to referenced, because it has not been declared, it has been declared wrong, (ie. typo) or it is null. 
+
+The following can throw a syntax error:
+
+```js
+
+var dale = 'dale';
+
+function() {
+    console.log(dale; //notice the missing parenthesese....
+}
 
 
+Range errors can happen when trying to access an index in an array that is beyond the array\'s length
