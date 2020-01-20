@@ -9,4 +9,14 @@ Image dimensions should ordinarily be controlled by CSS, especially if many or a
 Background images can be set to either repeat or appear once. There are a few different options, in fact. For example, you can repeat along the X-axis or the Y-axis, or both, or even set the image to scroll with the user. You can also create rollover effects. Lastly, if there are many images on a website, it is a good idea to reduce load time by creating image sprites. A sprite is "when a single image is used for several different parts of an interface..." For example, if there will be the same button image used on an e-commerce store, this would be great to make into a sprite. 
 
 ## Chapter 19: “Practical Information” (476-492)
-This chapter covers a few different topics, primarily SEO. 
+This chapter covers a few different topics, primarily SEO. The most important thing about SEO is "working out which terms people are likely to enter into a search" and ensuring the site is consciously and effectively set up for this. Doing this breaks down into two categories, on-page and off-page optimization. For example, the word used in the `<h1>` tag would count as an on-page technique, and off-site backlinks would count as off-page optimization. The book breaks down 7 vitals areas to focus on for a page's on-site optimization. They include:
+
+1. Page title
+1. Url
+1. Heading
+1. Text
+1. Link text
+1. Image alt text
+1. Page description
+
+Another issue related to SEO is analytics. It is important to keep track of what keywords people are using the find the site, etc. Google Analytics is helpful in this regard. Services like this can also help keep track of bounce rates, the time of visits, the number of visits, and so on. There are also many other convenient tools for web site development and maintenance, such as FTP and Domain Hosting (the latter being non-negotiable) and many companies provide convenient setups to avoid doing a lot of work from scratch. 
