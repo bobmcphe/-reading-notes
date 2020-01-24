@@ -1,0 +1,10 @@
+# Class 14b (or...actually 15?) Reading Notes
+
+## Google's Research on Teams
+Google set out to try to find a pattern in what makes a great team. Just as Google understood that not all web-pages are created equal, and do not deserve an equal footing in a search rank, so too, can we understand that not all teams--and more to the point--all team principles pan out evenly. In short, Google learned that a team that has cohesion, described by the article as "psychological safety", a state of being which both stems from, and further promotes such cohesion, is the magical ingredient that led Google "to the same conclusions that good managers have always known." Good teams have good communication, which flows from mutual respect. In fact, it was interesting to note that this could--and indeed, did--exist even in more hierarchical teams. The feeling of being safe, able to contribute, and both of these leading to the open ability to communicate, were indicative of a team set for success. 
+
+But Google did not only learn that the 'magic formula' to make a great team, but it also learned about the inherent limitations of the human condition:
+
+    "Project Aristotle is a reminder that when companies try to optimize everything, it’s sometimes easy to forget that success is often built on experiences — like emotional interactions and complicated conversations and discussions of who we want to be and how our teammates make us feel — that can’t really be optimized."
+
+What does this mean practically? The article explained that it may mean taking some extra time for extra meetings for extra conversations that may be extra messy. But in the end, it's ok, and it's even more efficient. Spending time for the people on the team to work on be able to communicate, and feel that they can do so, is the only way for a maximally efficient and productive team to be created. 
