@@ -1,7 +1,8 @@
 # reading-notes
-## Code Fellows Code 201 class   
 ### reading notes based on the daily readings.  
+ 
 
+## Code Fellows Code 201 class  
 theme: jekyll-theme-merlot  
 
 ---
@@ -38,3 +39,20 @@ Ch. 1. JS Intro - The book explains computers as making a model of the world tha
 1. Day 15
 ---
 this is the new change
+
+
+## Code Fellows Code 301 class  
+
+1. [Day 3](https://bobmcphe.github.io/reading-notes/class-03)
+1. Day 4 
+1. Day 5 
+1. Day 6
+1. Day 7 
+1. Day 8 
+1. Day 9 
+1. Day 10 
+1. Day 11 
+1. Day 12 
+1. Day 13 
+1. Day 14 
+1. Day 15
