@@ -38,7 +38,7 @@ Ch. 1. JS Intro - The book explains computers as making a model of the world tha
 1. Day 14 
 1. Day 15
 ---
-this is the new change
+
 
 
 ## Code Fellows Code 301 class  
