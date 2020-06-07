@@ -48,3 +48,14 @@ Jquery also has event handlers, usually the `.on()`. Each function for an evend 
 The most common solution is to use a Content Distribution Network (CDN). A CDN hosts a file in various locations and serves the content to the user if that that particular server is the closest. For perceived speed, programmers often place the javascript in the footer section so that it loads last, since it's loading is usually not visually noticed. 
 
 It is worth noting that, if possible, it is best practice to use alternatives to scripts like Javascript or Jquery. For example, using CSS for animations. This can help with speed, but it does have the down side of complicating code maintenance. 
+
+## Paired Programming
+
+There are 6 benefits:
+
+1. More efficient
+1. Engaged teamwork
+1. Increased Learning
+1. Chance to Practice Soft/Social Skills
+1. Better Prep for Job Interviews
+1. Better Prepared for real work environment
