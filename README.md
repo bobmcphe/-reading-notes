@@ -23,29 +23,34 @@ Ch. 18. Process & Design - Designing a website well is largely determined by und
 
 Ch. 1. JS Intro - The book explains computers as making a model of the world that we know, and these models interact with other aspects through events, objects, methods, and properties. Objects have properties, events can trigger methods which can do things like create or modify objects and properties. Normally, we try to keep Javascrip in its own file, separate from the HTML file and the CSS file, using the `<script>` tag to either add a small amount of custom code, or call the file that loads the code for us. 
 
-1. [Day 2](https://www.google.com "Google's Homepage")
+1. [Day 1](https://bobmcphe.github.io/reading-notes/class-01)
+1. [Day 2](https://bobmcphe.github.io/reading-notes/class-02)
 1. [Day 3](https://bobmcphe.github.io/reading-notes/class-03)
-1. Day 4 
-1. Day 5 
-1. Day 6
-1. Day 7 
-1. Day 8 
-1. Day 9 
-1. Day 10 
-1. Day 11 
-1. Day 12 
-1. Day 13 
-1. Day 14 
-1. Day 15
+1. [Day 4](https://bobmcphe.github.io/reading-notes/class-04)
+1. [Day 5](https://bobmcphe.github.io/reading-notes/class-05)
+1. [Day 6](https://bobmcphe.github.io/reading-notes/class-06)
+1. [Day 7](https://bobmcphe.github.io/reading-notes/class-07)
+1. [Day 8](https://bobmcphe.github.io/reading-notes/class-08)
+1. [Day 9](https://bobmcphe.github.io/reading-notes/class-09)
+1. [Day 10](https://bobmcphe.github.io/reading-notes/class-10)
+1. [Day 11](https://bobmcphe.github.io/reading-notes/class-11)
+1. [Day 12](https://bobmcphe.github.io/reading-notes/class-12)
+1. [Day 13](https://bobmcphe.github.io/reading-notes/class-13)
+1. [Day 14](https://bobmcphe.github.io/reading-notes/class-14)
+1. [Day 15](https://bobmcphe.github.io/reading-notes/class-15)
+
+
 ---
 
 
 
 ## Code Fellows Code 301 class  
 
-1. [Day 3](https://bobmcphe.github.io/reading-notes/class-03)
-1. Day 4 
-1. Day 5 
+1. [Day 1](https://bobmcphe.github.io/reading-notes/class-3-01)
+1. [Day 2](https://bobmcphe.github.io/reading-notes/class-3-02)
+1. [Day 3](https://bobmcphe.github.io/reading-notes/class-3-03)
+1. [Day 4] 
+1. [Day 5] 
 1. Day 6
 1. Day 7 
 1. Day 8 
